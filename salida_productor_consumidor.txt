@@ -1,0 +1,42 @@
+[Productor 1] Producido: 101 en posición 0
+[Productor 2] Producido: 201 en posición 1
+  [Consumidor 1] Consumido: 101 de posición 0
+  [Consumidor 2] Consumido: 201 de posición 1
+[Productor 2] Producido: 202 en posición 2
+[Productor 1] Producido: 102 en posición 3
+  [Consumidor 2] Consumido: 202 de posición 2
+  [Consumidor 1] Consumido: 102 de posición 3
+[Productor 2] Producido: 203 en posición 4
+[Productor 1] Producido: 103 en posición 0
+[Productor 2] Producido: 204 en posición 1
+[Productor 1] Producido: 104 en posición 2
+  [Consumidor 2] Consumido: 203 de posición 4
+  [Consumidor 1] Consumido: 103 de posición 0
+[Productor 2] Producido: 205 en posición 3
+[Productor 1] Producido: 105 en posición 4
+  [Consumidor 2] Consumido: 204 de posición 1
+  [Consumidor 1] Consumido: 104 de posición 2
+[Productor 2] Producido: 206 en posición 0
+[Productor 1] Producido: 106 en posición 1
+[Productor 2] Producido: 207 en posición 2
+  [Consumidor 2] Consumido: 205 de posición 3
+[Productor 1] Producido: 107 en posición 3
+  [Consumidor 1] Consumido: 105 de posición 4
+[Productor 2] Producido: 208 en posición 4
+  [Consumidor 2] Consumido: 206 de posición 0
+[Productor 1] Producido: 108 en posición 0
+  [Consumidor 1] Consumido: 106 de posición 1
+[Productor 2] Producido: 209 en posición 1
+  [Consumidor 2] Consumido: 207 de posición 2
+[Productor 1] Producido: 109 en posición 2
+  [Consumidor 1] Consumido: 107 de posición 3
+[Productor 2] Producido: 210 en posición 3
+  [Consumidor 2] Consumido: 208 de posición 4
+[Productor 1] Producido: 110 en posición 4
+  [Consumidor 1] Consumido: 108 de posición 0
+  [Consumidor 2] Consumido: 209 de posición 1
+  [Consumidor 1] Consumido: 109 de posición 2
+  [Consumidor 2] Consumido: 210 de posición 3
+  [Consumidor 1] Consumido: 110 de posición 4
+
+Ejecución finalizada con éxito. Todos los datos fueron producidos y consumidos.
